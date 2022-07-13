@@ -1,4 +1,0 @@
-Links úteis:
-
-https://www.markdownguide.org/getting-started/
-Site para estudar a documentação do markdown.
