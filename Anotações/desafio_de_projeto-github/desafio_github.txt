@@ -12,3 +12,7 @@ https://www.toptal.com/developers/gitignore
 gerador de gitigore
 
 
+## comandos
+mkdir : cria diretório
+touch : cria arquivo
+cat : mostra o conteúdo do arquivo
