@@ -5,6 +5,10 @@ Site para estudar a documentação do markdown.
 
 https://stackedit.io/
 Editor de markdown online
+ou
+https://readme.so/pt/editor
 
 https://www.toptal.com/developers/gitignore
 gerador de gitigore
+
+
