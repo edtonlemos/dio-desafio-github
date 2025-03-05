@@ -11,9 +11,14 @@ https://readme.so/pt/editor
 https://www.toptal.com/developers/gitignore
 gerador de gitigore
 
+http://source.unsplash.com/random/200x120
+site para imagens aleatórias para ser utilizados no front de projetos
 
 ## comandos
 mkdir : cria diretório
 touch : cria arquivo
 cat : mostra o conteúdo do arquivo
 rm -rf "pasta" : remove pasta e conteúdo
+git restore "arquivo" : desfaz todas as alterações locais de um arquivo
+
+
