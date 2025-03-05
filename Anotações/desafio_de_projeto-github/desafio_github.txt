@@ -16,3 +16,4 @@ gerador de gitigore
 mkdir : cria diretório
 touch : cria arquivo
 cat : mostra o conteúdo do arquivo
+rm -rf "pasta" : remove pasta e conteúdo
